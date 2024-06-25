@@ -3,7 +3,7 @@
 ## Game snake:
 Để tăng tốc độ game, mọi người có thể dùng phần mềm DosBox, chạy với cycle 1-2 thay vì chạy trực tiếp trên Emu8086 tốc độ sẽ khá chậm
 
-[Video hướng dẫn chạy bằng phần mềm DosBox](https://www.youtube.com/watch?v=i3lP4UWLQnM)
+[Video hướng dẫn chạy bằng phần mềm DosBox](https://youtu.be/hQXCEpZ_OF0)
 
 ## Đề 20 bài tập
 
